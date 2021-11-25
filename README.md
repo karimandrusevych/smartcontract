@@ -5,11 +5,6 @@
 Network: goerli
 Deployer wallet: `afraid deal credit expand coin hurry surge drift provide sweet type film`
 USDC Facuted: [https://usdcfaucet.com/](https://usdcfaucet.com/)
-Addresses:
-
-- LegitArtRegistry: [0x9cD669E308A77529335b5279d3871765F1AfbDCb](https://goerli.etherscan.io/address/0x9cD669E308A77529335b5279d3871765F1AfbDCb)
-- LegitArtERC721: [0x5EDD0DCD5D7566D73364237B19b3C32416f66738](https://goerli.etherscan.io/address/0x5EDD0DCD5D7566D73364237B19b3C32416f66738)
-- MarketPlace: [0xc43d2E3727625E839FbFa5f2187bBEfa1F3beEF9](https://goerli.etherscan.io/address/0xc43d2E3727625E839FbFa5f2187bBEfa1F3beEF9)
 
 ## :floppy_disk: Installation
 
